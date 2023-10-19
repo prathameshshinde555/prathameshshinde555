@@ -40,22 +40,6 @@ I'm a Computer Engineering student passionate about technology, AI, and software
     - Software Development: Contributing to efficient Java-based applications.
     - Object-Oriented Programming: Creating well-structured code following OOP principles.
 
-## Projects
-
-- **Vahan-Info - Vehicle Information Retrieval** (Jan 2023)
-  - Python, Selenium, Flask, HTML/CSS
-  - Implemented web scraping to fetch vehicle data from government websites.
-  - Designed a user-friendly web interface for real-time data retrieval.
-
-- **Object Detection Model for BMW Sordi** (Nov 2023)
-  - TensorFlow, YOLO v7, Machine learning
-  - Real-time processing with high accuracy in object detection.
-
-- **Alumni Management System (AMS)** (Oct 2023)
-  - Django, HTML/CSS, MySQL
-  - Alumni can create and manage profiles, including personal information, educational history, and career details.
-  - Secure user authentication for data privacy and security.
-
 ## Technical Skills
 
 - Languages: Python, Java, C, HTML/CSS, C++, SQL, React
